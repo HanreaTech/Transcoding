@@ -12,3 +12,4 @@ http://web.chacuo.net/charsetquotedprintable
 http://getdm.sinaapp.com/getCode.php 汉子标准电码
 http://tool.lanrentuku.com/
 http://www.zaixianjiema.com/
+http://kdd.cc/fl/code/
